@@ -5,6 +5,10 @@ layout: compress
 
 <!DOCTYPE html>
 
+{% if site.google_analytics %}
+  include google_analytics
+  {% endif %}
+
 {% include lang.html %}
 
 {% include assets-origin.html %}
