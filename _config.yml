@@ -23,7 +23,7 @@ timezone: Asia/Seoul
 
 title: Yang HeeWoong                          # the main title
 
-tagline: Android Develop   # it will display as the sub-title
+tagline: App Develop   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Nice to meet you.
