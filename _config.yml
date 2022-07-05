@@ -23,7 +23,7 @@ timezone: Asia/Seoul
 
 title: Yang HeeWoong                          # the main title
 
-tagline: App Develop   # it will display as the sub-title
+tagline: Develop Blog   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Nice to meet you.
@@ -81,7 +81,7 @@ theme_mode:    # [light|dark]
 img_cdn:
 
 # 프로필 사진 경로
-avatar: assets/img/profile/memoticon2.png
+avatar: assets/img/profile/memoticon1.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
